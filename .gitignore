@@ -1,0 +1,14 @@
+# Secretos y credenciales
+.env
+*.env
+*.key
+*.pem
+id_rsa*
+id_ed25519*
+*.token
+secretos/
+
+# Temporales y registros
+*.log
+*.tmp
+*~
